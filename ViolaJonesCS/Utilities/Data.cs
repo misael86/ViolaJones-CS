@@ -12,8 +12,8 @@ namespace ViolaJonesCS.Utilities
         public enum DataSet { pFace, 
                               nFace }
 
-        public static string[] DataURL = new string[2] { @"C:\Users\Misse\Documents\Exjobb\ViolaJonesCS\ViolaJonesCS\Images\PFACES\", 
-                                                         @"C:\Users\Misse\Documents\Exjobb\ViolaJonesCS\ViolaJonesCS\Images\NFACES\" };
+        public static string[] DataURL = new string[2] { @"C:\Users\Misael\Documents\Visual Studio 2012\Projects\ViolaJonesCS\ViolaJonesCS\Images\PFACES\", 
+                                                         @"C:\Users\Misael\Documents\Visual Studio 2012\Projects\ViolaJonesCS\ViolaJonesCS\Images\NFACES\" };
 
         /// CHECKED
         /// <summary>

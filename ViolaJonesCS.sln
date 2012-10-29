@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViolaJonesCS", "ViolaJonesCS\ViolaJonesCS.csproj", "{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D6D8953-F000-4076-BF04-0E0207750C2D}"
@@ -26,8 +26,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
 		{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}.Debug|x86.ActiveCfg = Debug|x86
 		{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}.Debug|x86.Build.0 = Debug|x86
 		{83CDE39D-56DB-47C8-93F3-4BA57A0EECAA}.Release|Any CPU.ActiveCfg = Release|x86

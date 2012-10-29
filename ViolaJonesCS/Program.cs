@@ -10,7 +10,10 @@ namespace ViolaJonesCS
     {
         static void Main(string[] args)
         {
-           Matrix[] m = Data.getImageMatrixList(new string[1] { @"C:\Users\misael\Documents\Visual Studio 2010\Projects\ViolaJonesCS\ViolaJonesCS\Images\PFACES\face00001.bmp" });
+            Matrix[] m = Data.getImageMatrixList(new string[1] { @"C:\Users\Misael\Documents\Visual Studio 2012\Projects\ViolaJonesCS\ViolaJonesCS\Images\PFACES\face00001.bmp" });
+
+       
+
         }
     }
 }
